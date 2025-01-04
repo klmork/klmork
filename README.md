@@ -8,7 +8,7 @@ You can find me [here](https://www.linkedin.com/in/kirsten-mork/) on Linkedin!
    - Front-End Demo using React, HTML, CSS
  
 ### Web Development Tutorials
-- Node Bootcamp
+- [Node Bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
    - 'Node Farm' - very basics
       - <img width="50%" alt="Screenshot 2025-01-03 at 10 10 00 PM" src="https://github.com/user-attachments/assets/4156c52c-b676-46af-a341-34234b219601" />
       - [GitHub Repo](https://github.com/klmork/Tutorials/tree/main/node/produce-page) 
