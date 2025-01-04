@@ -1,5 +1,4 @@
 # Hi there 👋
-You can find me [here](https://www.linkedin.com/in/kirsten-mork/) on Linkedin!
 
 ## Projects
 ### Web Development Projects
