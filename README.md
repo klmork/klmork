@@ -6,10 +6,12 @@
 
 ### 💻 **Web Development Projects**
 
-#### 🛠️ Grab Bag Project (2022)
-- [GitHub Repo](https://github.com/klmork/iFixit-Grab-Bag)
-- **Technologies**: React, HTML, CSS  
-- **Description**: Front-End Demo
+#### 🖌️ Character Creation Panel (2023)
+- [GitHub Repo](https://github.com/klmork/Character-Creation-Project)
+- **Technologies**: [p5.js library](https://p5js.org/), React
+- **Description**: Playing with p5.js to programatically create art and a simple animation system.  
+  <img src="https://github.com/user-attachments/assets/06c16e03-e6d2-4cbc-828e-376b4e67b6b3" alt="Character Creation Panel Screenshot" width="50%">  
+
 ---
 
 ### 📚 **Web Development Tutorials**
@@ -23,14 +25,6 @@
 ---
 
 ### 🎨 **Graphics Playground**
-
-#### 🖌️ Character Creation Panel (2023)
-- [GitHub Repo](https://github.com/klmork/Character-Creation-Project)
-- **Technologies**: [p5.js library](https://p5js.org/)  
-- **Description**: Playing with p5.js to programatically create art and a simple animation system.  
-  <img src="https://github.com/user-attachments/assets/06c16e03-e6d2-4cbc-828e-376b4e67b6b3" alt="Character Creation Panel Screenshot" width="50%">  
-
----
 
 #### 🎮 Lil Beans Project (2019)
 - [GitHub Repo](https://github.com/klmork/LilBeans)
