@@ -24,7 +24,7 @@
 
 ---
 
-### 🎨 **Graphics Playground**
+### 🎨 **Graphics**
 
 #### 🎮 Lil Beans Project (2019)
 - [GitHub Repo](https://github.com/klmork/LilBeans)
