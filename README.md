@@ -34,7 +34,7 @@
 - [GitHub Repo](https://github.com/klmork/Character-Creation-Project)
 - **Technologies**: [p5.js library](https://p5js.org/), React
 - **Description**: Playing with p5.js to programatically create art and a simple animation system.
-- **Note:** Still a WIP - check out the [issues](https://github.com/klmork/Character-Creation-Project/issues) to see what is next
+- **Note:** Still a WIP - check out the [issues](https://github.com/klmork/Character-Creation-Project/issues) to see what is next   
   <img src="https://github.com/user-attachments/assets/06c16e03-e6d2-4cbc-828e-376b4e67b6b3" alt="Character Creation Panel Screenshot" width="50%">  
 
 ---
