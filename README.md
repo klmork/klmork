@@ -6,10 +6,19 @@
 
 ### 💻 **Web Development Projects**
 
+#### 🧶 Crochet App (2025)
+- [GitHub Repo](https://github.com/klmork/CrochetApp)
+- **Stack**: MERN stack with TypeScript (MongoDB, Express, React, Node.js)
+- **Description**: Web app for cataloging your yarn / crochet projects
+- Note: Still a WIP
+
+---
+
 #### 🖌️ Character Creation Panel (2023)
 - [GitHub Repo](https://github.com/klmork/Character-Creation-Project)
 - **Technologies**: [p5.js library](https://p5js.org/), React
-- **Description**: Playing with p5.js to programatically create art and a simple animation system.  
+- **Description**: Playing with p5.js to programatically create art and a simple animation system.
+- Note: Still a WIP
   <img src="https://github.com/user-attachments/assets/06c16e03-e6d2-4cbc-828e-376b4e67b6b3" alt="Character Creation Panel Screenshot" width="50%">  
 
 ---
