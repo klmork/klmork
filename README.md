@@ -10,18 +10,21 @@
 - [GitHub Repo](https://github.com/klmork/CrochetApp)
 - **Stack**: MERN stack with TypeScript (MongoDB, Express, React, Node.js)
 - **Description**: Web app for cataloging your yarn / crochet projects
-- **Note:** Still a WIP - check out the [issues](https://github.com/klmork/CrochetApp/issues) to see what is next
+- **Note**: Still a WIP - check out the [issues](https://github.com/klmork/CrochetApp/issues) to see what is next
 
 ---
 
 
 ### 📚 **Web Development Tutorials**
 
-#### 🏗️ Node Bootcamp
-- [Complete Node Bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
+#### 🏗️ [Node Bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp)
+- **Project**: Natours App
+   - [GitHub Repo](https://github.com/klmork/Tutorials/tree/main/node/natours-project)
+   - **Description**: Mongo / Express app, MongoDB, with SSR (using PUG)
+   - **Note**: WIP
 - **Project**: 'Node Farm' (Very Basics)  
+  - [GitHub Repo](https://github.com/klmork/Tutorials/tree/main/node/produce-page)   
   <img src="https://github.com/user-attachments/assets/4156c52c-b676-46af-a341-34234b219601" alt="Node Farm Screenshot" width="50%">
-  - [GitHub Repo](https://github.com/klmork/Tutorials/tree/main/node/produce-page)  
 
 ---
 
